@@ -311,7 +311,7 @@ export function EmployeeList({ onSelect, updateList, viewKey, onChange }) {
             }}
             size={"lg"}
           >
-            직원 등록
+            회원 등록
           </Button>
         </Box>
       </Flex>

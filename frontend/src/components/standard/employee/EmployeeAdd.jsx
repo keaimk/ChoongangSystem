@@ -439,7 +439,7 @@ export function EmployeeAdd({ viewKey, onChange, onSelect }) {
           closeDelay={100}
         >
           <Button onClick={handleSubmit} disabled={!isValid}>
-            {viewKey === -1 ? "회원 등록" : "저장"}
+            {viewKey === -1 ? "등록" : "저장"}
           </Button>
         </Tooltip>
       </Box>
