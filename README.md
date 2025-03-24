@@ -122,7 +122,7 @@
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" width="100" height="30"/> 
 
 ## 🔎 작품 구성도
-![Image](https://github.com/user-attachments/assets/6c3fd4b5-e34a-4014-9a23-41f1e78f78e1)
+![Image](https://github.com/user-attachments/assets/fcc27c41-c750-4c76-9bdb-fe5df8d74891)
 
 ## 🌀 ERD
 ![Image](https://github.com/user-attachments/assets/0758d2c0-6639-41a2-bace-9f2a76e30423)
