@@ -108,7 +108,7 @@
 </details>
 <details>
   <summary>시연 영상</summary>
-  [YouTube 영상 보기](https://www.youtube.com/watch?v=XLRMTW2CY7A)
+  (https://www.youtube.com/watch?v=XLRMTW2CY7A)
 </details>
 
 ## ⚙ 기술 스택 
