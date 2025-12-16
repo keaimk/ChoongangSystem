@@ -5,9 +5,9 @@
 # 중앙시스템
 
 ## 💰 프로젝트 소개
-"중앙시스템"은 **(주)아셀씨앤아이**와 연계하여 진행된 기업 맞춤형 개발 프로젝트입니다.
+"중앙시스템"은 **(주)아셀씨앤아이**와 진행한 자산관리 시스템 프로젝트입니다.
 
-본사와 협력업체가 자산의 이동 흐름을 추적하고 효율적으로 관리할 수 있도록 하는 것이 목표입니다.
+가맹점의 구매 요청부터 승인, 입고·출고, 설치, 반품 처리까지 자산의 전체 흐름을 관리하며, 물류 관리를 통해 입출 내역, 재고 실사, 위치별 재고 현황까지 체계적으로 추적하는 통합 시스템입니다.
 
 ## 📆 개발 기간
 2025.01.06 - 2025.02.10
@@ -44,13 +44,11 @@
 
 ## ⚙ 기술 스택 
 ### FE
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" width="100" height="30"/>  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white" width="100" height="30"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=Chakra%20UI&logoColor=white" width="100" height="30"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=Chakra%20UI&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" />
 
 ### BE
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> 
-<img src="https://img.shields.io/badge/Lombok-A61F22?style=flat-square&logo=Lombok&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/MyBatis-8A2D39?style=flat-square&logo=MyBatis&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> 
-<img src="https://img.shields.io/badge/MariaDB-003B57?style=flat-square&logo=MariaDB&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" width="100" height="30"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Lombok-A61F22?style=flat-square&logo=Lombok&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/MyBatis-8A2D39?style=flat-square&logo=MyBatis&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/MariaDB-003B57?style=flat-square&logo=MariaDB&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" width="100" height="30"/>
+
 
 ## 🔎 작품 구성도
 ![Image](https://github.com/user-attachments/assets/fcc27c41-c750-4c76-9bdb-fe5df8d74891)
