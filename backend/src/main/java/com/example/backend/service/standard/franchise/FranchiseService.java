@@ -5,6 +5,7 @@ import com.example.backend.mapper.standard.franchise.FranchiseMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.cache.annotation.Cacheable;
 
 import java.util.List;
 import java.util.Map;
@@ -67,7 +68,8 @@ public class FranchiseService {
         return Map.of("franchiseList", franchiseList, "count", count);
     }
 
-    // 특정 가맹점 조회
+    // 특정 가맹점 조회 (캐시 적용)
+    @Cacheable(value = "franchiseList", key = "#franchiseKey")
     public Franchise viewFranchise(int franchiseKey) {
         return mapper.viewFranchise(franchiseKey);
     }
